@@ -1,9 +1,9 @@
-import { Button } from "@/components/ui/button";
+
 import React from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 const Education = () => {
   //  my education here
-  let education = [
+  const education = [
     {
       uniName: "A TUTOR ACADEMY KARACHI",
       date: "September 2023",
